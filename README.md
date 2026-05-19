@@ -5,18 +5,18 @@
 #### 🛠️ My Toolkit
 
  
-🖼️ DevRel & Strategy   │  Technical Writing • API Design • Video Demos • Community Build • Figma
+🥑 DevRel & Strategy   │  Technical Writing • API Design • Video Demos • Community Building • Figma
 
 🤖 Data & AI           │  LLMs • Prompt Engineering • RAG • Snowflake • dbt • SQL • Postgres
 
-⚙️ Core Infrastructure │  Python • TypeScript • Java • Kubernetes • Terraform • Linux • Git
+⚙️ Core Infrastructure │  Python • TypeScript • JavaScript • Java • Kubernetes • Terraform • Linux • Git
 
 ---
 
 #### 🌐 Community & Creative Outlets
 
 Beyond software engineering, I am passionate about cultivating developer ecosystems, media production, and inclusive community spaces:
-*   **Technical Workshops & Hackathons:** Experienced in orchestrating large-scale technical workshops and hackathons (including UTCS WiCS Hacks and Code Ninjas Summer Coding Camp) designed to onboard and uplift engineers.
+*   **Technical Workshops & Hackathons:** Experienced in orchestrating large-scale technical workshops and hackathons (including UTCS WiCS Hacks and Code Ninjas Summer Coding Camp) designed to uplift engineers.
 *   **Creative Content & Editorial Management:** Skilled in leading editorial strategy, article content, and community outreach for creative digital publications.
 
 ---
