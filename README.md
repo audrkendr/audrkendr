@@ -28,7 +28,9 @@ Whether you want to talk LLM prompt orchestration, enterprise API design, or bui
 * **Website:** [audrkendr.github.io](https://audrkendr.github.io/)
 * **Medium:** [Codesetta Stone](https://medium.com/@audrkendr)
 * **LinkedIn:** [akendr](https://www.linkedin.com/in/akendr/)
+* **X** : [@Audrey_Iterates](https://x.com/Audrey_Iterates)
 * **Email:** [audrkendr@gmail.com](mailto:audrkendr@gmail.com)
+
 
 ---
 <p align="center">
