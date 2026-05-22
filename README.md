@@ -14,17 +14,15 @@ I build bridges between developers and the tools they love.
 
 #### 🛠️ My Toolkit
 
+```
 🥑 DevRel & Strategy   │  Technical Writing • API Design • Video Demos • Community Building • Figma
-
 🤖 Data & AI           │  LLMs • Prompt Engineering • RAG • Cloud Engineering • dbt • SQL • Postgres
-
-⚙️ Core Infrastructure │  Python • TypeScript • JavaScript • Java • Kubernetes • Terraform • Linux • Git
-
----
+⚙️ Core Infrastructure │  Python • TypeScript • JavaScript • Java • Kubernetes • Terraform • Linux
+```
 
 #### 🌐 Community & Creative Outlets
 
-*   **Events:** I've produced and ran hackathons with 200+ builders and 20 corporate sponsors and am just as at home leading a small, focused FAQ session.
+*   **Events:** I've produced and run hackathons with 200+ builders and 20 corporate sponsors and am just as at home leading a small, focused FAQ session.
 *   **Content & Editorial Management:** From editorial strategy to article content, I'm constantly exploring creative ways to share ideas, including editing work for Codesetta Stone and AfterglowATX.
 
 ---
@@ -42,5 +40,5 @@ Always down to talk new tech, community, or what makes a great API experience!
  
 ---
 <p align="center">
-  🇺🇸 🇪🇺 
+ 🇺🇸 🇪🇺 
 </p>
