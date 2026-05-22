@@ -24,7 +24,7 @@ I build bridges between developers and the tools they love.
 
 #### 🌐 Community & Creative Outlets
 
-*   **Events:** I've produced and co-ran hackathons with 200+ builders and 20 corporate sponsors and am just as at home running a small, focused FAQ session.
+*   **Events:** I've produced and ran hackathons with 200+ builders and 20 corporate sponsors and am just as at home leading a small, focused FAQ session.
 *   **Content & Editorial Management:** From editorial strategy to article content, I'm constantly exploring creative ways to share ideas, including editing work for Codesetta Stone and AfterglowATX.
 
 ---
