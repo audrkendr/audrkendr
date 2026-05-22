@@ -1,13 +1,22 @@
 #### Hi there, I'm Audrey 👋
+I build bridges between developers and the tools they love.
+
+---
+
+#### Current Interests
+- [pudding.cool](https://pudding.cool/)
+- choosing words carefully
+- LangChain
+- making bugs into features
+- [@askcatgpt](https://www.instagram.com/askcatgpt/)
 
 ---
 
 #### 🛠️ My Toolkit
 
- 
 🥑 DevRel & Strategy   │  Technical Writing • API Design • Video Demos • Community Building • Figma
 
-🤖 Data & AI           │  LLMs • Prompt Engineering • RAG • Snowflake • dbt • SQL • Postgres
+🤖 Data & AI           │  LLMs • Prompt Engineering • RAG • Cloud Engineering • dbt • SQL • Postgres
 
 ⚙️ Core Infrastructure │  Python • TypeScript • JavaScript • Java • Kubernetes • Terraform • Linux • Git
 
@@ -15,23 +24,22 @@
 
 #### 🌐 Community & Creative Outlets
 
-Beyond software engineering, I am passionate about cultivating developer ecosystems, media production, and inclusive community spaces:
-*   **Technical Workshops & Hackathons:** Experienced in orchestrating large-scale technical workshops and hackathons (including UTCS WiCS Hacks and Code Ninjas Summer Coding Camp) designed to uplift engineers.
-*   **Creative Content & Editorial Management:** Skilled in leading editorial strategy, article content, and community outreach for creative digital publications.
+*   **Events:** I've produced and co-ran hackathons with 200+ builders and 20 corporate sponsors and am just as at home running a small, focused FAQ session.
+*   **Content & Editorial Management:** From editorial strategy to article content, I'm constantly exploring creative ways to share ideas, including editing work for Codesetta Stone and AfterglowATX.
 
 ---
 
 #### 🤝 Let's Connect!
 
-Whether you want to talk LLM prompt orchestration, enterprise API design, or building vibrant developer experiences, feel free to reach out!
+Always down to talk new tech, community, or what makes a great API experience!
 
-* **Website:** [audrkendr.github.io](https://audrkendr.github.io/)
+* **Website:** [audrkendr.com](https://audrkendr.com)
 * **Medium:** [Codesetta Stone](https://medium.com/@audrkendr)
 * **LinkedIn:** [akendr](https://www.linkedin.com/in/akendr/)
 * **X** : [@Audrey_Iterates](https://x.com/Audrey_Iterates)
 * **Email:** [audrkendr@gmail.com](mailto:audrkendr@gmail.com)
 
-
+ 
 ---
 <p align="center">
   🇺🇸 🇪🇺 
