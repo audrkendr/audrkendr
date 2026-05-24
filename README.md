@@ -34,7 +34,6 @@ Always down to talk new tech, community, or what makes a great API experience!
 * **Website:** [audrkendr.com](https://audrkendr.com)
 * **Medium:** [Codesetta Stone](https://medium.com/@audrkendr)
 * **LinkedIn:** [akendr](https://www.linkedin.com/in/akendr/)
-* **X** : [@Audrey_Iterates](https://x.com/Audrey_Iterates)
 * **Email:** [audrkendr@gmail.com](mailto:audrkendr@gmail.com)
 
  
