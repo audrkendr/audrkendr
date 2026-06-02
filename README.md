@@ -15,7 +15,7 @@ I build bridges between developers and the tools they love.
 #### 🛠️ My Toolkit
 
 ```
-🥑 DevRel & Strategy   │  Technical Writing • API Design • Video Demos • Community Building • Figma
+🥑 DX & UX             │  Technical Writing • API Design • Video Demos • Community Building • Figma
 🤖 Data & AI           │  LLMs • Prompt Engineering • RAG • Cloud Engineering • dbt • SQL • Postgres
 ⚙️ Core Infrastructure │  Python • TypeScript • JavaScript • Java • Kubernetes • Terraform • Linux
 ```
